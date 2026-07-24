@@ -36,6 +36,7 @@ A stack do CloudFormation provisiona automaticamente a seguinte estrutura:
 ├── template-infra.yml    # Template CloudFormation
 ├── README.md             # Documentação do projeto
 └── images/               # Evidências de execução no console AWS
+```
 
 ---
 
@@ -92,4 +93,7 @@ A stack do CloudFormation provisiona automaticamente a seguinte estrutura:
 ## 🔗 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelyn-bonatto/)
+
+```
+
 ```
